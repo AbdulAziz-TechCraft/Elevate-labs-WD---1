@@ -1,6 +1,4 @@
-## 📘 Front-End Web Development Q&A
 
-```markdown
 1. **What is Semantic HTML?**  
 Semantic HTML uses meaningful tags (like `<article>`, `<section>`, `<header>`) that clearly describe their purpose, improving readability and accessibility for both developers and machines.
 
@@ -11,14 +9,6 @@ Use Flexbox for simple, linear designs and Grid for complex structures.
 
 3. **What are Media Queries?**  
 Media queries apply styles based on device properties like width or screen type.
-Example:
-```css
-@media (max-width: 768px) {
-  body {
-    background-color: lightblue;
-  }
-}
-```
 
 4. **How do you make a website responsive?**  
 - Use relative units (% / rem / vh / vw).
@@ -58,5 +48,3 @@ Only works on positioned elements (relative/absolute/fixed/sticky).
 - **Margin**: Space *outside* an element, separating it from others.
 ```
 
----
-📌 Save this file as `frontend-interview-questions.md` or include it in your project README.
